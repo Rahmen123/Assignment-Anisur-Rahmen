@@ -52,3 +52,36 @@ color: #3E3E3E;
  h2{
      font-size: 40px;
  }
+ .container{
+     width: auto;
+     height: 800px;
+     margin: auto;
+     background-color: #f2f2f2;
+     overflow: auto;
+     margin-top: 5%;
+ }
+ .gallery{
+     margin: 25px;
+     margin-top: 20%;
+     float: left;
+     width: 370px;
+     height: 374px;
+     left: 535px;
+     top: 1454px;
+     border-radius: 19.7436px;
+     background-color: #FFFFFF;
+ }
+ .gallery img{
+     width: 100%;
+     height: auto;
+     border-radius: 2%;
+ }
+ .desc{
+     padding: 15px;
+     text-align: center;
+ }
+ .name-light{
+    color: orangered;
+    margin-left: 25%;
+    margin: auto;
+ }
